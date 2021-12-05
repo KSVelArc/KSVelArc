@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KSVelArc
-- 👀 I’m interested in human evolution, population genetics, archaic hominins, and introgression.
+- 👀 I’m interested in human evolution, population genetics, ancient DNA, and archaic introgression.
 - 🌱 I’m currently a PhD candidate at Vanderbilt University.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
