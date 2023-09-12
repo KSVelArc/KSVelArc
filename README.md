@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @KSVelArc
-- 👀 I’m interested in human evolution, population genetics, ancient DNA, and archaic introgression.
-- 🌱 I’m currently a PhD candidate at Vanderbilt University.
+ABOUT ME
+- 👋 I have a Ph.D. in Biology. I use computational methods to study human genetic variation.
+- 👀 Topics include: human evolution, population genetics, ancient DNA, archaic hominins (Neanderthals and Denisovans), archaic introgression.
+- 🌱 Other interests include:
+  -  Geology 🗻. Everywhere I go, I review the geology of the place and collect rocks.
+  -  Speculative fiction literature 📚. My favorite authors are Philip K. Dick and Isaak Asimov. I have a collection of old sci-fi magazine issues including "Galaxy Science Fiction", "Worlds of if Science Fiction", and "Fantasy and Science Fiction".
 
 <!---
 - 💞️ I’m looking to collaborate on ...
